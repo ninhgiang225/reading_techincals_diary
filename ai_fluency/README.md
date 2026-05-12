@@ -61,4 +61,4 @@
 
 
 ## Effective Prompting techniques
-[Here](4_Description_Summary.pdf)
+[Here](5_DD2_Handout__6_Effective_Prompting_Techniques.pdf)
