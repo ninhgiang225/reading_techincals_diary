@@ -1,6 +1,6 @@
 # Latent Dirichlet Allocation (LDA)
 
-> **Source:** [IBM - What is latent Dirichlet allocation?](https://www.ibm.com/think/topics/latent-dirichlet-allocation)
+**Source:** [IBM - What is latent Dirichlet allocation?](https://www.ibm.com/think/topics/latent-dirichlet-allocation)
 
 ## Overview
 Latent Dirichlet Allocation is a **topic modeling** technique used in Natural Language Processing (NLP) to uncover latent themes and their distributions across a collection of documents.
